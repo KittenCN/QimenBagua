@@ -5,7 +5,7 @@ import numpy as np
 from sxtwl import fromSolar
 import cn2an
 from cn2an import an2cn
-from ichingshifa.jieqi import *
+from jieqi import *
 
 
 wuxing = "火水金火木金水土土木,水火火金金木土水木土,火火金金木木土土水水,火木水金木水土火金土,木火金水水木火土土金"
